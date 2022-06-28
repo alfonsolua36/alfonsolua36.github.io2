@@ -152,17 +152,20 @@ grid-layout-33{
 
 }
 
-grid-layout-33 > div{
+grid-layout-33 > div {
   background-color: #000000;
   padding: 18px;
   text-align: center;
-  box-shadow: 0px 0px 10px #000000;
   box-shadow: 0px 0px 10px #00d1ff;
   margin: 80px auto 40 px auto;
 }
 
-grid-layout-33 > div:hover{
+grid-layout-33 > div:hover {
 transition: 0.25s ease-in;
 background-color: aquamarine;
 }
 
+grid-layout-33 .data {
+  color: #FFFFFF;
+  font-size: 50px;
+}
