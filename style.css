@@ -157,6 +157,12 @@ ul.main-menu li a.active {
   padding: 18px;
   text-align: center;
   box-shadow: 0px 0px 10px #000000;
+  box-shadow: 0px 0px 10px #00d1ff;
+  margin: 80px auto 40 px auto;
+}
 
+#grid-layout-33 > div:hover{
+transition: 0.25s ease-in;
+background-color: aquamarine;
 }
 
