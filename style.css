@@ -144,7 +144,7 @@ ul.main-menu li a.active {
 
 #grid-layout-33{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr);
   grid-gap: 3em;
   width: 80%;
   margin: 0 auto;
