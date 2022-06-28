@@ -156,7 +156,7 @@ ul.main-menu li a.active {
   padding: 18px;
   text-align: center;
   box-shadow: 0px 0px 10px #00d1ff;
-  margin: 80px auto 40px auto;
+  margin: 80px 80px;
 }
 
 #grid-layout-33 > div:hover {
