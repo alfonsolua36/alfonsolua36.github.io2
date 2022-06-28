@@ -164,8 +164,3 @@ grid-layout-33 > div:hover {
 transition: 0.25s ease-in;
 background-color: aquamarine;
 }
-
-grid-layout-33 p {
-  font-size: 16px;
-  color: #000000;
-}
