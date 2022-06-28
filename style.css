@@ -149,3 +149,11 @@ grid-layout-33 {
   width: 80%;
   margin: 0 auto;
 }
+
+grid-layout-33 > div {
+  background-color: #000000;
+  padding: 18px;
+  text-align: center;
+  box-shadow: #00d1ff;
+}
+
