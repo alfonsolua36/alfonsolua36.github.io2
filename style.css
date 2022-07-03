@@ -11,13 +11,13 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF;
+  color: #000000; /* previously white */
 }
 
 /**
  * Links
  */
-a {
+#menu-links {
   font-weight: normal;
   text-decoration: none; 
   color:#00d1ff;
@@ -101,10 +101,10 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(0,0,0,.8); 
+  background: #FFE5B4; /* previously black, FFE5B4 */
   padding:25px;
-  color:#FFFFFF; 
-}
+  color:#000000;  /* previously white */
+} 
 
 /* Menu Links */
 ul.main-menu {
@@ -119,13 +119,13 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#cfd2da;
+  color:#000000; /* previously cfd2da8*/
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:#00d1ff; /*previously white */
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#00d1ff; /* previously white*/
   border-bottom-color:#00D1FF;
 }
 
@@ -152,7 +152,7 @@ ul.main-menu li a.active {
 }
 
 #grid-layout-33 > div {
-  background-color: #FFE5B4;
+  background-color: #FFE5B4; /* previous FFE5B4 */
   padding: 18px;
   text-align: center;
   box-shadow: 0px 0px 10px #00d1ff;
@@ -172,3 +172,55 @@ background-color: aquamarine;
   top: 0;
   left: 0
 }
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/*
+#line-container {
+  width: 300px;
+  height: 40px;
+  margin: 50px auto;
+}
+
+#circle-container {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+}
+
+#semi-container {
+  width: 200px;
+  height: 100px;
+  margin: 50px auto;
+}
+
+.progress-text {
+font-size: 1.25em;
+color: black;
+margin-bottom: 1em;
+font-weight: 600;
+}
+
+*/
