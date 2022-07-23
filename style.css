@@ -259,14 +259,14 @@ a:active {
   /*  position: fixed;*/
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 560%;
   background-color: transparent;
   color: white;
   text-align: center;
 }
 
 /* Footer */
-.footer-social-icons {
+.foot-social-icons {
   width: fit-content;
   padding-top: 3px;
   padding-bottom: 3px;
