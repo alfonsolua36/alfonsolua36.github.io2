@@ -37,7 +37,7 @@ If you are interested in selling products online, check out [BigCartel](https://
 ### I heard I need to be using XYZ framework (Bootstrap, React, etc).
 Web technology changes rapidly, and it easy to get lost in the hype. Learning the basics of HTML, CSS, and JS is a good place to start. From there, you can explore different frameworks and libraries to see what interests you.
 
-### Is there a place I can go to Learn HTML?
+### Is there a place I can go to Learn HTML, CSS, or even Javascript?
 
 There are various resources online that can help you learn html, css, and javascript. [W3schools](https://www.w3schools.com/html/) is a great resource and beginner friendly. 
 
