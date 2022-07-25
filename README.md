@@ -39,7 +39,7 @@ Web technology changes rapidly, and it easy to get lost in the hype. Learning th
 
 ### Is there a place I can go to Learn HTML?
 
-There are vairous resources online that can help you learn html, css, and javascript. [w3schools](https://www.w3schools.com/html/) is a great resource and beginner friendly. 
+There are various resources online that can help you learn html, css, and javascript. [w3schools](https://www.w3schools.com/html/) is a great resource and beginner friendly. 
 
 ### I don't want to write code or deal with website hosting. Are there any website builders you recommend?
 - Google Sites (free)
